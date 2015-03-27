@@ -8,7 +8,7 @@ gem 'sqlite3', group: [:development, :test]
 gem 'execjs'
 gem 'therubyracer'
 gem 'pg'
-
+gem 'rails_12factor'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
