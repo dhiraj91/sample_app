@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
 
 def show
-@tile = "hi "
+@title = "hi"
 end
 
 def display
