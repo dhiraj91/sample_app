@@ -1,5 +1,7 @@
 SampleApp::Application.routes.draw do
- 
+
+  resources :users
+
  root "pages#home"
 
  # get "pages/show" => "pages#show"
