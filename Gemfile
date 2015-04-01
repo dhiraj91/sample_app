@@ -9,6 +9,7 @@ gem 'execjs'
 gem 'therubyracer'
 gem 'pg'
 gem 'rails_12factor'
+gem 'gravatar_image_tag', '0.1.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
